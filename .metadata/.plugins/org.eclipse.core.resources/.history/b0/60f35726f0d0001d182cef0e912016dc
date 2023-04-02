@@ -75,8 +75,6 @@ System.out.printf ("d"
 System.out.println("Dolly Khan");//line method
 System.out.print("3477719974");//print method
 
-System.out.println("This is a test");
-
 /*
  *Assignment 1 
  *create a class called product
