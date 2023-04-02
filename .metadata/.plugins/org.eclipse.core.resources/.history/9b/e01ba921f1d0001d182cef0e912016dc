@@ -53,7 +53,7 @@ System.out.println(SSN);
 System.out.println(insuranceIdName);
 System.out.println(AddressName);  */
 
-
+/*
  boolean b = true; //dynamic initialization
 char c= 'a';
 short s = 32657;
@@ -62,13 +62,13 @@ int i =126487;
 double d= 10.2;
 
 
-System.out.println(b);
-System.out.println(c);
-System.out.println(s);
-System.out.println(f);
-System.out.println(i);
-System.out.println(d);
-		
+System.out.printf ("b")
+System.out.printf ("c")
+System.out.printf("s")
+System.out.printf("f
+System.out.printf("i
+System.out.printf ("d"
+		*/
 //what wrong ?
 
 //every line is a statement.//when i put( " ") citation then output come
