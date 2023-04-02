@@ -1,0 +1,9 @@
+package dolly.java1;
+
+public class product {
+	public void main() {
+		int id = 101;
+		System.out.println(id);
+	}
+
+}

@@ -1,0 +1,66 @@
+package dolly.java1;
+
+public class MyJavaProject {
+
+	public static void main(String[] args) {
+		System.out.println("Hello America");
+/*	int A =20;
+	int B = 15;
+	int C = 10;
+	double D= 15.99;
+	double Total=A+B+C+D;
+	System.out.println ("Total amount is:"+Total);
+	float e = 4;
+	System.out.println(e);	
+	System.out.println("Meaningful");
+	String magazine = "I love America";
+	System.out.println(magazine);
+	*/
+		
+		//crate a variable CarsNAME and assign the TOYOTA to it.
+		String CarNAME = "Toyota";
+
+		// Add the correct data type for the following variables:
+		int myNum =5;
+		float myFloatNum = 5.99f;
+		char myLetter = 'D';
+		boolean  myBool = true;
+		String myText =" HelloWorld";
+
+		System.out.println(myText);
+		
+	}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
