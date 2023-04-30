@@ -14,5 +14,4 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="dolly.java1.MyJavaProject"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="my_project_new"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="my_project_new"/>
-    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>

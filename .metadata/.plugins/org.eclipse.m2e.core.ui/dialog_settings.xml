@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\dolly\eclipse-workspace\Selenium_AutomatOrangehrn\src\main\java\smarttech\ny\basepage"/>
+			<item value="C:\Users\dolly\eclipse-workspace\my_project_new"/>
 			<item value="C:\Users\dolly\eclipse-workspace\Product\src"/>
 			<item value="C:\Users\dolly\eclipse-workspace\Selenium_Automation\src\test\java"/>
 		</list>
@@ -45,10 +47,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Automation-Exercise_E2E"/>
+			<item value="com.usa.selenium_automatorangehrn"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Automation-Exercise_E2E"/>
+			<item value="Selenium_AutomatOrangehrn"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

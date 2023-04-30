@@ -1,0 +1,5 @@
+Feature: User is able to login and complete the purchase process! 
+
+@sanity
+Scenario: User is able visit the website, login, view & purchase products
+
